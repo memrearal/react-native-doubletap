@@ -1,6 +1,6 @@
 {
-  "name": "react-native-doubletap",
-  "version": "1.0.0",
+  "name": "@memrearal/react-native-doubletap",
+  "version": "1.0.1",
   "description": "A react-native component that handles double tap and single tap events",
   "main": "index.js",
   "scripts": {
@@ -23,10 +23,13 @@
     "event",
     "handler"
   ],
-  "author": "memrearal (@memrearal)",
+  "author": "memrearal",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/memrearal/react-native-doubletap/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "homepage": "https://github.com/memrearal/react-native-doubletap#readme"
 }

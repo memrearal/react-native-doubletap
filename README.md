@@ -6,12 +6,12 @@ A react-native component that handles double tap and single tap events
 
 ### Installation
 
-- `npm install --save react-native-doubletap`
+- `npm install --save @memrearal/react-native-doubletap`
 
 ### Usage
 
 ```js
-import DoubleTap from "react-native-doubletap";
+import DoubleTap from "@memrearal/react-native-doubletap";
 export default class App extends React.Component {
   render() {
     return (
@@ -51,12 +51,12 @@ Double Tap ve Single Tap olaylarını işleyen bir react-native component'i
 
 ## Kurulum
 
-- `npm install --save react-native-doubletap`
+- `npm install --save @memrearal/react-native-doubletap`
 
 ## Kullanım
 
 ```js
-import DoubleTap from "react-native-doubletap";
+import DoubleTap from "@memrearal/react-native-doubletap";
 export default class App extends React.Component {
   render() {
     return (
